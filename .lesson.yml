@@ -1,7 +1,0 @@
----
-title: "Dice Game"
-type: "challenge"  # challenge, exercise, article, video
-description: "Build a dice roller in Ruby!"
-tags: "looping"
-ignore:
-- "dice-game.md"
